@@ -1,6 +1,6 @@
 {
     "name": "fmtjs-att-render",
-    "version": "4.24.0",
+    "version": "4.25.0",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -9,7 +9,7 @@
     "author": "Jianru Lin",
     "license": "MIT",
     "dependencies": {
-        "fmtjs-att-render-html": "4.24.0",
-        "fmtjs-att-render-text": "4.24.0"
+        "fmtjs-att-render-html": "4.25.0",
+        "fmtjs-att-render-text": "4.25.0"
     }
 }

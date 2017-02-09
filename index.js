@@ -4,8 +4,8 @@ var html_render = require('fmtjs-att-render-html')
 function render(att, options) {
 	options = fill_default_value(options)
 	switch (options.mode) {
-		case 'text':
-			return text_render(att, options)
+		// case 'text':
+		// 	return text_render(att, options)
 		case 'html':
 			return html_render(att, options)
 		default:
